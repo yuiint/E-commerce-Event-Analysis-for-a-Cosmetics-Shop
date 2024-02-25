@@ -14,8 +14,7 @@ The operator can use these dynamic labels to analyze the components of users and
 This is the component of users:
 ![可愛的貓咪](/images/naplrs_result.png)
 
-According to the users' component, These are 
-
+According to the users' component, 
 
 #### In the short term:
 
