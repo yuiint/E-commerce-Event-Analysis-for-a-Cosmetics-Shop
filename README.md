@@ -21,18 +21,18 @@ According to the users' component, These are
 
 Give priority to the groups that are larger and more mobile in the dynamic tags:
 
-**1. Potential Customer (R) Introduction:**
+**1. Potential Customer (R) Introduction:**\
    Offer first-time purchase discounts, free shipping, and other shopping incentives, as well as maintain communication and product advertisement exposure.
 
-**2. New Customer (N) Conversion:**
+**2. New Customer (N) Conversion:**\
   Through repurchase offers, convert new customers (N) into active customers (A) with a higher customer value, thereby expanding a more stable revenue source group and at the same time preventing new customers from becoming lost customers (L)."
 
 #### In the long term:
 
-**1. Maintain Active Customers (A)**
+**1. Maintain Active Customers (A)**\
   Design a loyalty program or membership rewards mechanism, and continue to interact and communicate with active customers (A) to prevent the extension of their repurchase cycles.
 
-**2. Combine Category and Product Data Mining to Adjust to User Preferences:**
+**2. Combine Category and Product Data Mining to Adjust to User Preferences:**\
   Integrate segmentation results with purchase categories and product data to grasp the preferences of different groups and adjust product development and marketing strategies.
 
 ## Module Structure
