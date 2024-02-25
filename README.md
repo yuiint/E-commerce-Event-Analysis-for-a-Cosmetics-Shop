@@ -43,7 +43,9 @@ root/
   |   |── __init__.py
   |   |── main.py
   |   |── utils.py
-  |   └── EDA.ipynb 
+  |   └── EDA.ipynb
+  |── images/
+  |   |── naplrs_result.png
   |── .gitignore
   |── README.md
   └── requirements.txt
