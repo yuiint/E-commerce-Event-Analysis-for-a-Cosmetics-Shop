@@ -47,3 +47,8 @@ root/
   |── README.md
   └── requirements.txt
 ```
+
+## Dataset
+
+[Link](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop]
+
