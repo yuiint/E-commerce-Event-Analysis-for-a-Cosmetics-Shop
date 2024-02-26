@@ -50,5 +50,4 @@ root/
 
 ## Dataset
 
-[Link](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop]
-
+[Link](https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-cosmetics-shop)
