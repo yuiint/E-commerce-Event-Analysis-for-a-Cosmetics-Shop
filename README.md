@@ -16,7 +16,7 @@ This is the component of users:
 
 According to the users' component, 
 
-#### In the short term:
+### In the short term:
 
 Give priority to the groups that are larger and more mobile in the dynamic tags.
 
@@ -26,7 +26,7 @@ Give priority to the groups that are larger and more mobile in the dynamic tags.
 * New Customer (N) Conversion\
   Through repurchase offers, convert new customers (N) into active customers (A) with a higher customer value, thereby expanding a more stable revenue source group and at the same time preventing new customers from becoming lost customers (L).
 
-#### In the long term:
+### In the long term:
 
 * Maintain Active Customers (A)\
   Design a loyalty program or membership rewards mechanism, and continue to interact and communicate with active customers (A) to prevent the extension of their repurchase cycles.
