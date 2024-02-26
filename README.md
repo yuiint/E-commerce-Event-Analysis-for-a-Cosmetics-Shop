@@ -14,8 +14,6 @@ Operators can use these dynamic labels to analyze user segments and make decisio
 This is the component of users:
 ![NAPLSR result](/images/naplrs_result.png)
 
-According to the users' component, 
-
 ### In the short term:
 
 Give priority to the groups that are larger and more mobile in the dynamic tags.
