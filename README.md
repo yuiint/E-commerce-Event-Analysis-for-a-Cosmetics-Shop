@@ -3,12 +3,12 @@
 ### Overview
 
 This project aims to analyze users using eCommerce data and classify them in order to provide operational suggestions.
-
+-----
 ### Methodology
 
 The analysis method used is NAPL classification, which focuses on the order count and the active status of users.\
 Operators can use these dynamic labels to analyze user segments and make decisions, as well as create targeted marketing campaigns based on insights from the data analysis.
-
+-----
 ### Conclusion
 
 This is the component of users:
