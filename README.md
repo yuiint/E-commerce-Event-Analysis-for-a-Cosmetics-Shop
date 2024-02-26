@@ -1,4 +1,4 @@
-## E-commerce Event Analysis Project
+# E-commerce Event Analysis Project
 
 ## Overview
 
