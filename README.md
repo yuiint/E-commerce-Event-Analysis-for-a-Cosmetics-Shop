@@ -1,16 +1,16 @@
 ## E-commerce Event Analysis Project
 
 ### Overview
-
-This project aims to analyze users using eCommerce data and classify them in order to provide operational suggestions.
 -----
-### Methodology
+This project aims to analyze users using eCommerce data and classify them in order to provide operational suggestions.
 
+### Methodology
+-----
 The analysis method used is NAPL classification, which focuses on the order count and the active status of users.\
 Operators can use these dynamic labels to analyze user segments and make decisions, as well as create targeted marketing campaigns based on insights from the data analysis.
------
-### Conclusion
 
+### Conclusion
+-----
 This is the component of users:
 ![NAPLSR result](/images/naplrs_result.png)
 
@@ -35,7 +35,7 @@ Give priority to the groups that are larger and more mobile in the dynamic tags:
   Integrate segmentation results with purchase categories and product data to grasp the preferences of different groups and adjust product development and marketing strategies.
 
 ## Module Structure
-
+-----
 ```plaintext
 root/
   |──src/
