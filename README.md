@@ -20,10 +20,10 @@ According to the users' component,
 
 Give priority to the groups that are larger and more mobile in the dynamic tags:
 
-* Potential Customer (R) Introduction\
+*** Potential Customer (R) Introduction\**
    Offer first-time purchase discounts, free shipping, and other shopping incentives, as well as maintain communication and product advertisement exposure.
 
-* New Customer (N) Conversion\
+*** New Customer (N) Conversion\**
   Through repurchase offers, convert new customers (N) into active customers (A) with a higher customer value, thereby expanding a more stable revenue source group and at the same time preventing new customers from becoming lost customers (L).
 
 #### In the long term:
