@@ -19,7 +19,7 @@ According to the users' component,
 #### In the short term:
 
 Give priority to the groups that are larger and more mobile in the dynamic tags:
-
+* hey
 **1. Potential Customer (R) Introduction**\
    Offer first-time purchase discounts, free shipping, and other shopping incentives, as well as maintain communication and product advertisement exposure.
 
